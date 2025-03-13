@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="Simulador-Carteira-Ethereum-main/src"/>
+	<classpathentry kind="lib" path="Simulador-Carteira-Ethereum-main/src/lib/junit-jupiter-api_5.11.3.jar"/>
+	<classpathentry kind="lib" path="Simulador-Carteira-Ethereum-main/src/lib/junit-jupiter-engine_5.11.3.jar"/>
+	<classpathentry kind="lib" path="Simulador-Carteira-Ethereum-main/src/lib/junit-jupiter-migrationsupport_5.11.3.jar"/>
+	<classpathentry kind="lib" path="Simulador-Carteira-Ethereum-main/src/lib/junit-jupiter-params_5.11.3.jar"/>
+	<classpathentry kind="lib" path="Simulador-Carteira-Ethereum-main/src/lib/junit-platform-commons_1.11.3.jar"/>
+	<classpathentry kind="lib" path="Simulador-Carteira-Ethereum-main/src/lib/junit-platform-engine_1.11.3.jar"/>
+	<classpathentry kind="lib" path="Simulador-Carteira-Ethereum-main/src/lib/junit-platform-launcher_1.11.3.jar"/>
+	<classpathentry kind="lib" path="Simulador-Carteira-Ethereum-main/src/lib/junit-platform-runner_1.11.3.jar"/>
+	<classpathentry kind="lib" path="Simulador-Carteira-Ethereum-main/src/lib/junit-platform-suite-api_1.11.3.jar"/>
+	<classpathentry kind="lib" path="Simulador-Carteira-Ethereum-main/src/lib/junit-platform-suite-commons_1.11.3.jar"/>
+	<classpathentry kind="lib" path="Simulador-Carteira-Ethereum-main/src/lib/junit-platform-suite-engine_1.11.3.jar"/>
+	<classpathentry kind="lib" path="Simulador-Carteira-Ethereum-main/src/lib/junit-vintage-engine_5.11.3.jar"/>
+	<classpathentry kind="lib" path="Simulador-Carteira-Ethereum-main/src/lib/org.apiguardian.api_1.1.2.jar"/>
+	<classpathentry kind="lib" path="Simulador-Carteira-Ethereum-main/src/lib/org.hamcrest_3.0.0.jar"/>
+	<classpathentry kind="lib" path="Simulador-Carteira-Ethereum-main/src/lib/org.junit_4.13.2.v20240929-1000.jar"/>
+	<classpathentry kind="lib" path="Simulador-Carteira-Ethereum-main/src/lib/org.opentest4j_1.3.0.jar"/>
+	<classpathentry kind="output" path="Simulador-Carteira-Ethereum-main/bin"/>
+</classpath>
